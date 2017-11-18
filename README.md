@@ -1,0 +1,1 @@
+# Lamnisoft-PDFLean-Changelog
