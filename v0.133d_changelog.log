@@ -1,0 +1,50 @@
+	NFO:
+Document type : changelog
+Software : PDFLean
+Developpement/Edition : Lamnisoft TDK/SDK
+Lisence : GNU/GPL (with and after v0.133a version)
+Requirements : VB.Net Framwork 4.0 & Windows Vista, 7, 8, RT, 8.1, 10, Server all
+Code : JavaScript, Java, C++ (before 0.133a version) | C++ (after & include 0.133a version)
+Software installer seize: 12.45mb
+After installation/portable edition: 15mb
+
+Updates changes:
+v0.133a History, 09-10-2015:
+- Updates to 0.133a version
+- updated file list to delete in automatic uninstall assistant "unist000.exe" in main soft folder + AppData files to detect by panel configuration program (unist.ink)
+- Build new autoupdate program (autoupdat.msi/js) in main folder and in program : help > search for updates... (launch autoupdat) 
+- Support xml file type in building/editing additionnal script mode (download all libraries at: www.microsoft.com/support/download-center/C++online.exe
+- updated URL to donate in help > support developpers (old URL is down or redirect with rewriting URL). New URL is: www.lamnisoft.com/PDFLearn/contact/donate.aspx
+- add-include changelog.log in main folder (updated with coming versions)
+- Fix problem to export in GIF file (re-compiled algorythm)
+- Delete import/export pdf engine in free version
+- Free version have publicity
+- Add proxy support (you can chose details in help > otpions...)
+- Choses custom version (old or beta) in options (DDL to server)
+- Reveled firest releasse source code (current version, updated)
+- Change software lisence : passed to GNU/GPL
+- reedited/updated compatibility of configuration save file for another version of software (vous devez avoir une version supportant les objets que contient
+votre ficiher de sauvegarde de configuration)
+- New executable launcher (for update & remove premium key hack security)
+
+v0.133c History, 12-04-2016 :
+(download only available with autoupdate, website just give history ; not new installer because this update is too optionnal)
+- Change software background color
+- fix incompatibility with ReactOS and Wine (v2.3 or more up)
+- Detect PDFLean on all computers autorized on the local LAN intranet, if it open you can open/switch on PDF files open on this devices,
+working and save on this files (you can disabled this option in options home). You alwary can disabled/enabled password request for
+access to local files open having a password in option home.
+- you can fix limit of paperweight (1 kb - 1 gb)
+- Updated changelog
+
+v0.133d History, 17-11-2016:
+New installer is available on website (v0.133d)
+- fix incompatibility with NAS device to open local-lan PDF
+- Updated source code (compiled + desasembled) to 0.133d version. It available to download on own website
+- Updated portable version to 0.133d
+- In help > about you have the link of the website of principals devellopers
+- Chose drive and emplacement to real time stock (storage disk, RAM, orther...) in otpions.
+- Added simplified chinese language (translated by OmgX525, thanks!) Alwary present language is in option or on software website.
+The list of language are same present in main folder 
+- Updated all languages
+- Updated changelog
